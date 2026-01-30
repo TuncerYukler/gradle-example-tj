@@ -1,17 +1,10 @@
-[versions]
-
+versions:
 springboot = '3.5.3'
-
 springmodulith = '1.4.1'
-
 glassfish_jaxb = '4.0.5'
-
 hibernate_modelgen = '6.6.18.Final'
-
 jakarta_ee_api = '10.0.0'
-
 jsonschema2pojo = '1.2.2'
-
 datasource_micrometer = '1.1.2'
 
  
